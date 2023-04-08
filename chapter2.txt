@@ -1,6 +1,6 @@
 type chapter2.txt
 open chapter2.txt
-this is chapter2.txt
+this is chapter2.txt.....
 
 
 
